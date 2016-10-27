@@ -35,3 +35,9 @@ R is flexible -- there are many ways to do the same thing. It might be useful to
 The ggplot2 package can create pretty spectucular figures. Improving aesthetics or code efficiency could be useful.
  
  
+
+
+
+
+
+[why are all the numbers 1?]
