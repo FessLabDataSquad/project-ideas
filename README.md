@@ -21,7 +21,7 @@ Most of my cleaning work uses just base R. Packages like {tidyr} and {dplyr} wou
  
  2. Format / Style
  
- R is flexible -- there are many ways to do the same thing. It might be useful to have standard conventions. For example:
+R is flexible -- there are many ways to do the same thing. It might be useful to have standard conventions. For example:
  
  (a) we'll use = instead of <- because the former is more common in other programming languages.
  
@@ -32,6 +32,6 @@ Most of my cleaning work uses just base R. Packages like {tidyr} and {dplyr} wou
  
  3. Data visualization
  
- The ggplot2 package can create pretty spectucular figures. Improving aesthetics or code efficiency could be useful.
+The ggplot2 package can create pretty spectucular figures. Improving aesthetics or code efficiency could be useful.
  
  
