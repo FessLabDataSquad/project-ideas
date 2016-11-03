@@ -8,7 +8,7 @@ This file will include ideas for mini-projects that would improve my code and be
 Most of my cleaning work uses just base R. Packages like {tidyr} and {dplyr} would definitely improve efficiency. So a very broad project is to improve my code using these kinds of packages. This big task can be broken into smaller tasks, such as...
 
 
- (a) variable naming
+ (a) variable naming: typically, source files have variables in columns, with some names on the first row, but often those names are too long, too short, unclear (e.g. "d1"). usually we want the final variables to be reasonably short (one or two words) and it should be kinda clear.
  
  (b) assigning vectors their proper class (e.g. factor, integer, etc)
  
