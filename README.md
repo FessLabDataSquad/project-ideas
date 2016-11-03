@@ -29,6 +29,9 @@ R is flexible -- there are many ways to do the same thing.
  (iii) should we always load packages at the top of the script? or is it better to load in the line just above when the package is needed? perhaps the latter is useful while the code is in development, but moving to the top is a polishing step?
  
  (b) Pretty much any code our team is working on could be made more efficient. 
+ 
+ Specific project:
+ - The elevation cleaning code involved reverse-scoring scale items. Current code uses a specific constant (8) over and over again, because this is a 7-point point likert scale, so to reverse it you substract the value from 8. But, hard-coding constants is a bad idea in general (eventually we can elaborate on why) so it would be better to set a variable (e.g. SCALE_REVERSAL_VALUE = 8) and recode accordingly. So, that code is included in the Assignment1 repo -- someone could fork it and clean it up.
 
 
 #3. Data visualization
