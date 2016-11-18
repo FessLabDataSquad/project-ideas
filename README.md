@@ -1,7 +1,7 @@
 # project-ideas
 looking for something to do?
 
-This file will include ideas for mini-projects that would improve my code and be useful learning for RAs with various skill levels. Many are general ideas, but some are more focused and we can always talk about how to focus one of the general ideas.
+This repo includes ideas for mini-projects that would improve FessLab code and would be useful learning exercises for RAs of various skill levels. Many are general ideas, but some are more focused and we can always talk about how to add focus to any of the general ideas.
 
 #1. Data Cleaning
 
