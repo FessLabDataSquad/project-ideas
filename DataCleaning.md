@@ -14,6 +14,6 @@ This big task can be broken into smaller tasks, such as...
  Specific projects:
  -  Assignment 1  https://github.com/FessLabDataSquad/Assignment1-CleanTrust
  
- -  Free Response Coding Data -- Lab members currently reading free responses and coding them (e.g. rating how "helpful" the response was on some quantitative scale). 
+ -  Assignment 2 https://github.com/FessLabDataSquad/Assignment2-CleanElevation
  
- - Coming soon: Assignment 2 (Elevation)
+ -  Free Response Coding Data -- Lab members currently reading free responses and coding them (e.g. rating how "helpful" the response was on some quantitative scale). 
